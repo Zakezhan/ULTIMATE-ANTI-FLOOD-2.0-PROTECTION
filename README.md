@@ -1,4 +1,7 @@
 # ULTIMATE ANTI-FLOOD 2.0 PROTECTION
+
+![Ultimate Anti-Flood 2.0](Ultimate-anti-flood.jpg)
+
 [Перейти к описанию на Plugincs](https://plugincs.com/view.php?id=20)
 
 Высокопроизводительная защита от флуда для серверов CS 1.6 (ReHLDS/ReAPI).
