@@ -1,6 +1,6 @@
 # ULTIMATE ANTI-FLOOD 2.0 PROTECTION
 
-![Ultimate Anti-Flood 2.0](Ultimate-anti-flood.jpg)
+![ultimate Anti-Flood 2.0](ultimate-anti-flood.jpg)
 
 [Перейти к описанию на Plugincs](https://plugincs.com/view.php?id=20)
 
